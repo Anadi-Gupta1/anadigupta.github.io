@@ -59,31 +59,31 @@ Generative AI (RLHF, Language Model, RAG)
 
 ### Project 2: Portfolio/Website
 • Developed a personal portfolio website.
-•Utilized WordPress to build and customize the website.
-•Demonstrated web development skills including HTML and CSS.
-•Created a platform to display academic achievements, certifications, and projects.
-•Integrated interactive elements to improve user experience.
+• Utilized WordPress to build and customize the website.
+• Demonstrated web development skills including HTML and CSS.
+• Created a platform to display academic achievements, certifications, and projects.
+• Integrated interactive elements to improve user experience.
 [PORTFOLIO WEBSITE](https://anadiguptatest.rf.gd/)
 
 ### Project 3: APP - SKT(STANDARD KITCHEN TASTE)
-•Developed and published a user-friendly mobile and web application using the no-code platform, Adalo.
-•Integrated with backend services for data management and implemented common features like appointment scheduling and payment collection using Adalo’s feature templates.
-•Ensured a seamless user experience with regular updates and secure in app purchases using popular services like Stripe.
-[APP LINK](https://anadi-guptas-team-1.adalo.com/skt)
+• Developed and published a user-friendly mobile and web application using the no-code platform, Adalo.
+• Integrated with backend services for data management and implemented common features like appointment scheduling and payment collection using Adalo’s feature templates.
+• Ensured a seamless user experience with regular updates and secure in app purchases using popular services like Stripe.
+• [APP LINK](https://anadi-guptas-team-1.adalo.com/skt)
 
 ### Project 4: Conservation of Energy
 • Developed a model focused on conserving energy by converting wind energy to electrical energy.
 • 1st position in Intra-Regional Jawaharlal Nehru National Science,Mathematics, and Environmental Exhibition.
- [SCIENCE PROJECT](https://www.linkedin.com/in/anadigupta/details/projects/)
+• [SCIENCE PROJECT](https://www.linkedin.com/in/anadigupta/details/projects/)
  
 ### Project 5: Hyperloop
-•Conducted research and developed a model of a Hyperloop transportationsystem.
-•Explored the potential for high-speed, efficient, and sustainabletransportation.
-•Demonstrated understanding of the principles behind Hyperloop technology.
-[SCIENCE PROJECT](https://www.youtube.com/watch?v=6459neMvXUE)
+• Conducted research and developed a model of a Hyperloop transportationsystem.
+• Explored the potential for high-speed, efficient, and sustainabletransportation.
+• Demonstrated understanding of the principles behind Hyperloop technology.
+• [SCIENCE PROJECT](https://www.youtube.com/watch?v=6459neMvXUE)
 
 ## Recommendation Received
-[Recommendation from Mentors](https://www.linkedin.com/in/anadigupta/details/recommendations/)
+• [Recommendation from Mentors](https://www.linkedin.com/in/anadigupta/details/recommendations/)
 
 ## Connect with Me
 [Github](https://github.com/Anadi-Gupta1)
