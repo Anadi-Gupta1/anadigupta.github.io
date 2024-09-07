@@ -1,7 +1,7 @@
 # anadigupta.github.io
 # Data Scientist
 
-# Technical Skills:
+## Technical Skills:
 1. Programming Languages & Software Development
 Python, MATLAB, HTML, CSS, SQL, 
 2. Web Development & Frameworks
