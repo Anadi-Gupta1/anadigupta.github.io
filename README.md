@@ -69,7 +69,7 @@ Generative AI (RLHF, Language Model, RAG)
 •Developed and published a user-friendly mobile and web application using the no-code platform, Adalo.
 •Integrated with backend services for data management and implemented common features like appointment scheduling and payment collection using Adalo’s feature templates.
 •Ensured a seamless user experience with regular updates and secure in app purchases using popular services like Stripe.
-[Portfolio Website](https://anadi-guptas-team-1.adalo.com/skt)
+[APP LINK](https://anadi-guptas-team-1.adalo.com/skt)
 
 ### Project 4: Conservation of Energy
 • Developed a model focused on conserving energy by converting wind energy to electrical energy.
