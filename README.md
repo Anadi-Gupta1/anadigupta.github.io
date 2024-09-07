@@ -35,26 +35,26 @@ Generative AI (RLHF, Language Model, RAG)
 
 
 ## Education
-- Btech, Computer Science | Lakshmi Narain College of Technology, Bhopal (Currenlty Studying Aug 2024-2028)								       		
+- Btech, Computer Science | Lakshmi Narain College of Technology, Bhopal (CurrentLy Studying Aug 2024-2028)								       		
 - Class XII CBSE- 80.2% | Pm Shree Kendriya Vidyalaya Sehore (Aug 2022- May 2024)	 			        		
 - Class X CBSE- 85% | Lourde Mata Convent Sr. Sec. School (March 2008- Aug 2022)
 
 ## Work Experience 
 [WORK EXPERIENCE](https://www.linkedin.com/in/anadigupta/details/experience/)
-**If You Know Development Intern  New York, United States(_May 2024 - Present (5 months)_)**
-**GreenBhumi Volunteer Intern New Delhi, Delhi, India (_May 2024 - June 2024 (2 months)_)**
+1. **If You Know Development Intern  New York, United States(_May 2024 - Present (5 months)_)**
+2. **GreenBhumi Volunteer Intern New Delhi, Delhi, India (_May 2024 - June 2024 (2 months)_)**
 
-**OctaNet Services Pvt Ltd.  Java Development Intern (_July 2024 - August 2024 (2 months)_)**
-**OctaNet Services Pvt Ltd. Web Development Intern (_July 2024 - August 2024 (2 months)_)**
-**OctaNet Services Pvt Ltd. Python Development Intern (_July 2024 - August 2024 (2 months)_)**
+3. **OctaNet Services Pvt Ltd.  Java Development Intern (_July 2024 - August 2024 (2 months)_)**
+4. **OctaNet Services Pvt Ltd. Web Development Intern (_July 2024 - August 2024 (2 months)_)**
+5. **OctaNet Services Pvt Ltd. Python Development Intern (_July 2024 - August 2024 (2 months)_)**
 
-**Bharat Intern, Machine Learning Intern (_July 2024 - August 2024 (2 months)_)**
-**Helpy Moto, Wordpress Developer Intern (_June 2024 - July 2024 (2 months)_)**
-**Peershala, Human Resources Intern (_May 2024 - June 2024 (2 months)_)**
+6. **Bharat Intern, Machine Learning Intern (_July 2024 - August 2024 (2 months)_)**
+7. **Helpy Moto, Wordpress Developer Intern (_June 2024 - July 2024 (2 months)_)**
+8. **Peershala, Human Resources Intern (_May 2024 - June 2024 (2 months)_)**
 
 ## Projects
 ### Project 1: Jarvis AI Assistant
-[Intro of Jarvis](https://www.youtube.com/watch?v=9PqJ4mX5pTc)
+[YOUR PERSONAL AI ASSISTANT](https://www.youtube.com/watch?v=9PqJ4mX5pTc)
 
 
 ### Project 2: Portfolio/Website
@@ -63,7 +63,7 @@ Generative AI (RLHF, Language Model, RAG)
 •Demonstrated web development skills including HTML and CSS.
 •Created a platform to display academic achievements, certifications, and projects.
 •Integrated interactive elements to improve user experience.
-[Portfolio Website](https://anadiguptatest.rf.gd/)
+[PORTFOLIO WEBSITE](https://anadiguptatest.rf.gd/)
 
 ### Project 3: APP - SKT(STANDARD KITCHEN TASTE)
 •Developed and published a user-friendly mobile and web application using the no-code platform, Adalo.
@@ -74,13 +74,13 @@ Generative AI (RLHF, Language Model, RAG)
 ### Project 4: Conservation of Energy
 • Developed a model focused on conserving energy by converting wind energy to electrical energy.
 • 1st position in Intra-Regional Jawaharlal Nehru National Science,Mathematics, and Environmental Exhibition.
- [Science Project](https://www.linkedin.com/in/anadigupta/details/projects/)
+ [SCIENCE PROJECT](https://www.linkedin.com/in/anadigupta/details/projects/)
  
 ### Project 5: Hyperloop
 •Conducted research and developed a model of a Hyperloop transportationsystem.
 •Explored the potential for high-speed, efficient, and sustainabletransportation.
 •Demonstrated understanding of the principles behind Hyperloop technology.
-[Science Project](https://www.youtube.com/watch?v=6459neMvXUE)
+[SCIENCE PROJECT](https://www.youtube.com/watch?v=6459neMvXUE)
 
 ## Recommendation Received
 [Recommendation from Mentors](https://www.linkedin.com/in/anadigupta/details/recommendations/)
