@@ -1,5 +1,4 @@
 # anadigupta.github.io
-# Data Scientist
 
 ## Technical Skills:
 1. Programming Languages & Software Development
@@ -40,7 +39,8 @@ Generative AI (RLHF, Language Model, RAG)
 - Class XII CBSE- 80.2% | Pm Shree Kendriya Vidyalaya Sehore (Aug 2022- May 2024)	 			        		
 - Class X CBSE- 85% | Lourde Mata Convent Sr. Sec. School (March 2008- Aug 2022)
 
-## Work Experience
+## Work Experience 
+[WORK EXPERIENCE](https://www.linkedin.com/in/anadigupta/details/experience/)
 **If You Know Development Intern  New York, United States(_May 2024 - Present (5 months)_)**
 **GreenBhumi Volunteer Intern New Delhi, Delhi, India (_May 2024 - June 2024 (2 months)_)**
 
